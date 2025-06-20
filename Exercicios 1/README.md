@@ -32,5 +32,5 @@ Cada questão está em um arquivo separado, por exemplo: q1.js.<br>
 Entre na pasta de exercicios para executá-lo diretamente:
 
 ```bash
-node q1.js
+node q1
 ```
